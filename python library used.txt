@@ -1,0 +1,9 @@
+Python Libraries used:
+
+a) Numpy
+b) Tk GUI toolkit - tkinter
+c) win32gui
+d) PIL - Pillow 
+e) OpenCV
+f) Tensorflow
+g) Keras
